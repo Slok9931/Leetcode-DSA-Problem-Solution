@@ -109,7 +109,7 @@ So subtracting the second from the first gives **only those subarrays with exact
 
 ## 🏷️ Tags
 
-`Array` • `Sliding window` • `Two-pointer` • `LeetCode Medium`
+`Array` • `Sliding window` • `Two-pointer` • `LeetCode Hard`
 
 ## 🙌 If You Found This Useful
 Feel free to ⭐ star this repo or share it with others!
